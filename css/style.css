@@ -15,7 +15,7 @@ body {
     height: 100vh;
 }
 
-main{
+main {
     width: 700px;
     height: 500px;
     background-color: hsl(0, 0%, 100%);
@@ -70,6 +70,7 @@ p {
 
 .old-price {
     margin-left: 20px;
+    color:hsl(228, 12%, 48%) ;
 }
 
 button {
